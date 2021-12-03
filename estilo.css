@@ -51,7 +51,8 @@ body {
 
 .icono-responsive {
   color: var(--azul-oscuro);
-  font-size: 3rem;
+  font-size: 1.5rem;
+  margin:4px;
   display: none;
 }
 
@@ -409,5 +410,25 @@ a {
   }
   .logo-pie-de-pagina {
     width: 50%;
+  }
+  .boton-footer{
+    font-size:8px;
+    margin:auto;
+    padding: auto;
+  }
+  .pie-de-pagina-unete h2{
+    font-size: 12px;
+    margin:auto;
+    padding: auto;
+  }
+  .logo-pie-de-pagina{
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+  }
+  .derechos-reservados{
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
   }
 }
