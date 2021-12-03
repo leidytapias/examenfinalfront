@@ -325,6 +325,7 @@ a {
   padding: 12px;
   display: flex;
   flex-direction: row;
+  cursor: pointer;
 }
 .derechos-reservados {
   display: flex;
